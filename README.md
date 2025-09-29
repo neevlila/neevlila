@@ -40,7 +40,7 @@ This section highlights my advanced skills, a key differentiator in my profile.
 | **Cloud & Integration**| Integrating Applications with **Gemini 1.0 Pro** via **Google Cloud**, QA |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,git,github" alt="AI, Cloud, and Foundational Icons" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="AI, Cloud, and Foundational Icons" />
 </div>
 
 ---
