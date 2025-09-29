@@ -35,7 +35,7 @@
 | :--- | :--- |
 | **Frontend** | `HTML` / `CSS` / `JavaScript` / `TypeScript` / `React` / `Next.js` |
 | **Backend** | `Node.js` / `Python` / `Express.js` |
-| **Database** | `MongoDB` / `PostgreSQL` |
+| **Database** | `MongoDB` |
 | **Tools & OS** | `Git` / `GitHub` / `VS Code` / `Linux` |
 
 <br>
