@@ -73,7 +73,7 @@ Here are a few projects that showcase my skills across full-stack and AI domains
 | **Lawbot** | `React`, `TypeScript`, `Next.js`, `NLP`, `Gemini API Key` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
 | **Jarvis** | `Python`, `Generative AI`, `Speech Recognition` | A fully functional, AI-powered desktop assistant demonstrating complex Python scripting and integration with AI APIs. |
 | **JourneyScape** | `HTML`, `CSS`, `JavaScript` | A dynamic web application focusing on travel planning or mapping experiences, showcasing front-end design skills. |
-| **Portfolio** | `TypeScript`, `React` | My personal website showcasing my projects, skills, and resume. |
+| **Portfolio** | `TypeScript`, `React`, ` Next.js`, `Tailwind CSS`, `Shadcn` | My personal website showcasing my projects, skills, and resume. |
 | **Basic** | `Python` | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
 
 ---
