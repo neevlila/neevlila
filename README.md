@@ -54,7 +54,7 @@ I apply these core technologies to build robust and scalable solutions.
 | **Frontend** | `HTML` / `CSS` / `JavaScript` |
 | **Backend** | `Python` |
 | **Database** | `MongoDB` |
-| **Tools & OS** | `Git` / `GitHub` / `VS Code` / `Linux` |
+| **Tools & OS** | `Git` / `GitHub` / `VS Code` / `Kali-Linux` |
 
 <br>
 
