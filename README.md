@@ -51,15 +51,15 @@ I apply these core technologies to build robust and scalable solutions.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | `HTML` / `CSS` / `JavaScript` / `TypeScript` / `React` / `Next.js` |
-| **Backend** | `Node.js` / `Python` / `Express.js` |
+| **Frontend** | `HTML` / `CSS` / `JavaScript` |
+| **Backend** | `Python` |
 | **Database** | `MongoDB` |
 | **Tools & OS** | `Git` / `GitHub` / `VS Code` / `Linux` |
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,postgres,git,github,vscode,linux" alt="Full Stack Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,git,github,vscode,linux" alt="Full Stack Tech Stack Icons" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ Here are a few projects that showcase my skills across full-stack and AI domains
 
 | Project | Technologies | Description |
 | :--- | :--- | :--- |
-| **Lawbot** | `TypeScript`, `Next.js`, `NLP` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
+| **Lawbot** | `React`, `TypeScript`, `Next.js`, `NLP`, `Gemini API Key` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
 | **JourneyScape** | `HTML`, `CSS`, `JavaScript` | A dynamic web application focusing on travel planning or mapping experiences, showcasing front-end design skills. |
 | **Portfolio** | `TypeScript`, `React` | My personal website showcasing my projects, skills, and resume. |
 | **Basic** | `Python` | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
