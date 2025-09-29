@@ -59,7 +59,8 @@ I apply these core technologies to build robust and scalable solutions.
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,git,github,vscode,linux" alt="Full Stack Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,git,github,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="48" height="48" />
 </div>
 
 ---
