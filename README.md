@@ -40,7 +40,7 @@ This section highlights my advanced skills, a key differentiator in my profile.
 | **Cloud & Integration**| Integrating Applications with **Gemini 1.0 Pro** via **Google Cloud**, QA |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,python,git,github" alt="AI, Cloud, and Foundational Icons" />
+  <img src="https://skillicons.dev/icons?i=gcp,git,github" alt="AI, Cloud, and Foundational Icons" />
 </div>
 
 ---
@@ -71,6 +71,7 @@ Here are a few projects that showcase my skills across full-stack and AI domains
 | Project | Technologies | Description |
 | :--- | :--- | :--- |
 | **Lawbot** | `React`, `TypeScript`, `Next.js`, `NLP`, `Gemini API Key` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
+| **Jarvis** | `Python`, `Generative AI`, `Speech Recognition` | A fully functional, AI-powered desktop assistant demonstrating complex Python scripting and integration with AI APIs. |
 | **JourneyScape** | `HTML`, `CSS`, `JavaScript` | A dynamic web application focusing on travel planning or mapping experiences, showcasing front-end design skills. |
 | **Portfolio** | `TypeScript`, `React` | My personal website showcasing my projects, skills, and resume. |
 | **Basic** | `Python` | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
