@@ -24,7 +24,6 @@
 
 - 🎓 I am a **B.Tech in Information Technology** student passionate about using code to solve real-world problems.
 - 💻 My primary focus is on **Full Stack Web Development** (Frontend and Backend) and leveraging **Generative AI** for accelerated development and creative solutions.
-- 🌱 I’m currently learning **Next.js** and advanced **System Design** principles.
 - 🤝 I’m looking to collaborate on **open-source projects** involving modern web frameworks or AI integration.
 
 ---
