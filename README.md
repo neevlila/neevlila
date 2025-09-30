@@ -40,7 +40,9 @@ This section highlights my advanced skills, a key differentiator in my profile.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gcp" alt="AI, Cloud, and Foundational Icons" />
-  <img src="https://skillicons.dev/icons?i=gcp,gemini,roboto" />
+  <img src="/icons/roboto.svg" alt="Roboto" />
+  <img src="/icons/gemini.svg" alt="Gemini" />
+
 </div>
 
 ---
