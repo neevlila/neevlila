@@ -40,8 +40,8 @@ This section highlights my advanced skills, a key differentiator in my profile.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/AI-Icon.png" alt="Robot" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Gemini_Icon.png" alt="Gemini" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/AI-Icon.png/64px-AI-Icon.png" alt="AI Icon" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gemini_Icon.png/64px-Gemini_Icon.png" alt="Gemini Icon" width="48" />
 </div>
 
 ---
