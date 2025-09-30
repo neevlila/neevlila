@@ -39,9 +39,9 @@ This section highlights my advanced skills, a key differentiator in my profile.
 | **Cloud & Integration**| Integrating Applications with **Gemini 1.0 Pro** via **Google Cloud**, QA |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Roboto_font_logo.svg" alt="Roboto" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gemini_logo.svg" alt="Gemini" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Roboto_font_logo.svg" alt="Roboto" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gemini_logo.svg" alt="Gemini" width="48" />
 </div>
 
 ---
