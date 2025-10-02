@@ -4,13 +4,13 @@
   <p align="center">B.Tech IT Student | Full Stack Enthusiast | Generative AI & Cloud Problem-Solver.</p>
 
   <p align="center">
-    <a href="https://neevlila.vercel.app" target="_blank">
+    <a href="https://neevlila.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/neev-lila-292b46301" target="_blank">
+    <a href="https://www.linkedin.com/in/neev-lila-292b46301">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:nneev223@gmail.com" target="_blank">
+    <a href="mailto:nneev223@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
