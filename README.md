@@ -53,12 +53,12 @@ I apply these core technologies to build robust and scalable solutions.
 | **Frontend** | `HTML` / `CSS` / `JavaScript` |
 | **Backend** | `Python` |
 | **Database** | `MongoDB` |
-| **Tools & OS** | `Git` / `GitHub` / `VS Code` / `Kali-Linux` |
+| **Tools & OS** | `Docker` / `Git` / `GitHub` / `VS Code` / `Kali-Linux` |
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,docker,git,github,vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="48" height="48" />
 </div>
 
