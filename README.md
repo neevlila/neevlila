@@ -73,6 +73,7 @@ Here are a few projects that showcase my skills across full-stack and AI domains
 | **Lawbot** | `React`, `TypeScript`, `Next.js`, `NLP`, `Gemini API Key` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
 | **Jarvis** | `Python`, `Generative AI`, `Speech Recognition` | A fully functional, AI-powered desktop assistant demonstrating complex Python scripting and integration with AI APIs. |
 | **Portfolio** | `TypeScript`, `React`, ` Next.js`, `Tailwind CSS`, `Shadcn` | My personal website showcasing my projects, skills, and resume. |
+| **Krishi Mitra** | `React`, `Vite`, `Tailwind CSS`, `Supabase`, `Gemini API`, `Weather API`, `Google OAuth` | A farmer-focused platform offering AI-generated crop advisory, image-based disease detection, live weather tracking and a simple market linkage system for real-time crop pricing. |
 | **Community Fridge** | `TypeScript`, `React`, ` Next.js`, `Tailwind CSS`, `Supabase` | This is Website to reduce the Hunger and stop wasting the Food. |
 | **Basic** | `Python` | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
 
