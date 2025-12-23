@@ -1,108 +1,66 @@
 <div align="center">
-  
-  <h1 align="center">👋 Hello! I'm Neev Lila </h1>
-  <p align="center">B.Tech IT Student | Full Stack Enthusiast | Generative AI & Cloud Problem-Solver.</p>
 
-  <p align="center">
-    <a href="https://neevlila.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/neev-lila-292b46301">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nneev223@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
-  
-  <br/>
+  <h1 align="center">Hello, I’m Neev Lila</h1>
+  <p align="center">
+    B.Tech IT Student | AI-Augmented Developer | Generative AI & Cloud-Focused Builder
+  </p>
+
+  <p align="center">
+    <a href="https://neevlila.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/neevlila">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:nneev223@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
----
+About Me
 
-### 💡 About Me
+I’m an AI-augmented developer focused on using Generative AI to build and ship practical software more efficiently.
 
-- 🎓 I am a **B.Tech in Information Technology** student passionate about using code to solve real-world problems.
-- 💻 My primary focus is on **Full Stack Web Development** (Frontend and Backend) and leveraging **Generative AI** for accelerated development and creative solutions.
-- 🤝 I’m looking to collaborate on **open-source projects** involving modern web frameworks or AI integration.
+My core work revolves around Python, Prompt Engineering, and the Google Gemini API, where I design AI-driven workflows for rapid prototyping, code generation, and application logic. I integrate AI directly into the development lifecycle instead of treating it as an add-on, enabling faster iteration and reduced build time.
 
----
+To deliver usable products, I work with modern web technologies as delivery layers for AI-powered functionality, rather than as a frontend specialization.
 
-### 🧠 Generative AI & Cloud Skills
+I’m currently pursuing a B.Tech in Information Technology and actively building AI-driven projects that prioritize real-world usability, speed, and reliability.
 
-This section highlights my advanced skills, a key differentiator in my profile.
+Generative AI & Cloud Focus
+Area	What I Work With
+Generative AI	Prompt Engineering, Gemini API, AI-Powered Code Generation, NLP
+AI-Augmented Development	Rapid Prototyping, Workflow Automation, AI-Driven Logic
+Cloud & Integration	Google Cloud (Gemini), API Integration, Quality Control
+<div align="center"> <img src="https://skillicons.dev/icons?i=gcp" width="48" /> </div>
+Technical Toolkit
 
-| Skill Focus | Key Competencies |
-| :--- | :--- |
-| **Generative AI** | Prompt Engineering, Generative AI Tools, Generative Slide Creation, NLP |
-| **AI-Augmented Dev** | AI-Powered Code Generation, Rapid Prototyping, Creative Solutions |
-| **Cloud & Integration**| Integrating Applications with **Gemini 1.0 Pro** via **Google Cloud**, QA |
+These technologies support my AI-focused development work.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" />
-</div>
+Category	Technologies
+Programming	Python
+Frontend (Delivery Layer)	HTML, CSS, JavaScript
+Backend & Services	Supabase
+DevOps & Tools	Docker, Git, GitHub, VS Code
+OS	Kali Linux
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,supabase,docker,git,github,vscode" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" /> </div>
+Featured Projects
+Project	Stack	What It Demonstrates
+Lawbot	React, TypeScript, Next.js, Gemini API, NLP	A conversational AI system that answers legal queries using Generative AI and modern web interfaces
+Jarvis	Python, Generative AI, Speech Recognition	An AI-powered desktop assistant showcasing Python automation and AI integration
+Krishi Mitra	React, Tailwind CSS, Supabase, Gemini API, Weather API	A farmer-focused platform providing AI-generated crop advisory, disease detection, weather insights, and pricing data
+Community Fridge	TypeScript, React, Next.js, Supabase	A platform aimed at reducing food waste and improving community food access
+Python Basics	Python	Core Python scripts demonstrating logic, scripting, and fundamentals
+GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neevlila&show_icons=true&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevlila&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevlila&layout=compact&hide_border=true" /> </div>
+Get in Touch
 
----
+I’m open to collaboration, internships, and discussions around Generative AI, AI-augmented development, and practical software building.
 
-### 🛠️ Full Stack Tech Stack
+LinkedIn: https://www.linkedin.com/in/neev-lila-292b46301
 
-I apply these core technologies to build robust and scalable solutions.
+Portfolio: https://neevlila.vercel.app
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `HTML` / `CSS` / `JavaScript` |
-| **Backend** | `Python` |
-| **Database** | `Supabase` |
-| **Tools & OS** | `Docker` / `Git` / `GitHub` / `VS Code` / `Kali-Linux` |
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,docker,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="48" height="48" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-Here are a few projects that showcase my skills across full-stack and AI domains:
-
-| Project | Technologies | Description |
-| :--- | :--- | :--- |
-| **Lawbot** | `React`, `TypeScript`, `Next.js`, `NLP`, `Gemini API Key` | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
-| **Jarvis** | `Python`, `Generative AI`, `Speech Recognition` | A fully functional, AI-powered desktop assistant demonstrating complex Python scripting and integration with AI APIs. |
-| **Krishi Mitra** | `React`, `Vite`, `Tailwind CSS`, `Supabase`, `Gemini API`, `Weather API`, `Google OAuth` | A farmer-focused platform offering AI-generated crop advisory, image-based disease detection, live weather tracking and a simple market linkage system for real-time crop pricing. |
-| **Community Fridge** | `TypeScript`, `React`, ` Next.js`, `Tailwind CSS`, `Supabase` | This is Website to reduce the Hunger and stop wasting the Food. |
-| **Basic** | `Python` | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
-
----
-
-### 📊 GitHub Stats
-
-These cards demonstrate my commitment and consistency on GitHub.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neevlila&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Neev's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevlila&theme=buefy&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevlila&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
----
-
-### 📧 Get In Touch
-
-I'm always open to discussing new projects, collaboration opportunities in Generative AI or full-stack development, or general tech talk.
-
-Feel free to reach out via:
-
-* **LinkedIn:** [Neev Lila](https://www.linkedin.com/in/neev-lila-292b46301)
-* **Personal Site:** [neevlila.vercel.app](http://neevlila.vercel.app)
-
-***
-
-<div align="center">
-  <small>Built with ❤️ and Markdown.</small>
-</div>
+<div align="center"> <small>Built with Markdown.</small> </div> ```
