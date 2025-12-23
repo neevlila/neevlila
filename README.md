@@ -1,66 +1,64 @@
-<div align="center">
+# Neev Lila
 
-  <h1 align="center">Hello, I’m Neev Lila</h1>
-  <p align="center">
-    B.Tech IT Student | AI-Augmented Developer | Generative AI & Cloud-Focused Builder
-  </p>
+AI-Augmented Developer | B.Tech IT Student  
+Focused on building practical software using Generative AI and cloud-based systems.
 
-  <p align="center">
-    <a href="https://neevlila.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/neevlila">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:nneev223@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+---
 
-</div>
+## About
 
-About Me
+I’m an AI-augmented developer who integrates Generative AI directly into the software development process to build and ship usable products faster.
 
-I’m an AI-augmented developer focused on using Generative AI to build and ship practical software more efficiently.
+My core work centers around Python, Prompt Engineering, and the Google Gemini API. I use AI for rapid prototyping, code generation, and workflow automation, resulting in faster iteration and reduced development time on recent projects.
 
-My core work revolves around Python, Prompt Engineering, and the Google Gemini API, where I design AI-driven workflows for rapid prototyping, code generation, and application logic. I integrate AI directly into the development lifecycle instead of treating it as an add-on, enabling faster iteration and reduced build time.
+To deliver complete applications, I work with modern web technologies as supporting layers for AI-powered functionality, rather than as a frontend specialization.
 
-To deliver usable products, I work with modern web technologies as delivery layers for AI-powered functionality, rather than as a frontend specialization.
+---
 
-I’m currently pursuing a B.Tech in Information Technology and actively building AI-driven projects that prioritize real-world usability, speed, and reliability.
+## Core Focus
 
-Generative AI & Cloud Focus
-Area	What I Work With
-Generative AI	Prompt Engineering, Gemini API, AI-Powered Code Generation, NLP
-AI-Augmented Development	Rapid Prototyping, Workflow Automation, AI-Driven Logic
-Cloud & Integration	Google Cloud (Gemini), API Integration, Quality Control
-<div align="center"> <img src="https://skillicons.dev/icons?i=gcp" width="48" /> </div>
-Technical Toolkit
+- AI-Augmented Development
+- Prompt Engineering & Gemini API
+- Generative AI Integration
+- Rapid Prototyping & AI-Powered Code Generation
+- Deployment & Environment Management (Docker)
 
-These technologies support my AI-focused development work.
+---
 
-Category	Technologies
-Programming	Python
-Frontend (Delivery Layer)	HTML, CSS, JavaScript
-Backend & Services	Supabase
-DevOps & Tools	Docker, Git, GitHub, VS Code
-OS	Kali Linux
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,supabase,docker,git,github,vscode" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" /> </div>
-Featured Projects
-Project	Stack	What It Demonstrates
-Lawbot	React, TypeScript, Next.js, Gemini API, NLP	A conversational AI system that answers legal queries using Generative AI and modern web interfaces
-Jarvis	Python, Generative AI, Speech Recognition	An AI-powered desktop assistant showcasing Python automation and AI integration
-Krishi Mitra	React, Tailwind CSS, Supabase, Gemini API, Weather API	A farmer-focused platform providing AI-generated crop advisory, disease detection, weather insights, and pricing data
-Community Fridge	TypeScript, React, Next.js, Supabase	A platform aimed at reducing food waste and improving community food access
-Python Basics	Python	Core Python scripts demonstrating logic, scripting, and fundamentals
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neevlila&show_icons=true&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevlila&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevlila&layout=compact&hide_border=true" /> </div>
-Get in Touch
+## Technical Stack
 
-I’m open to collaboration, internships, and discussions around Generative AI, AI-augmented development, and practical software building.
+- **Programming:** Python  
+- **AI & Cloud:** Google Gemini, Prompt Engineering  
+- **Web (Delivery Layer):** HTML, CSS, JavaScript  
+- **Backend Services:** Supabase  
+- **Tools:** Docker, Git, GitHub, VS Code  
+- **OS:** Kali Linux, Windows  
 
-LinkedIn: https://www.linkedin.com/in/neev-lila-292b46301
+---
 
-Portfolio: https://neevlila.vercel.app
+## Featured Projects
 
-<div align="center"> <small>Built with Markdown.</small> </div> ```
+**Lawbot**  
+Conversational AI application using Generative AI and NLP to provide legal information through a modern web interface.  
+Tech: React, TypeScript, Next.js, Gemini API
+
+**Jarvis**  
+AI-powered desktop assistant demonstrating Python automation, speech recognition, and AI integration.  
+Tech: Python, Generative AI
+
+**Krishi Mitra**  
+Farmer support platform offering AI-generated crop advisory, disease detection, weather insights, and market pricing.  
+Tech: React, Tailwind CSS, Supabase, Gemini API
+
+**Community Fridge**  
+Web platform aimed at reducing food waste and improving access to surplus food.  
+Tech: React, TypeScript, Next.js, Supabase
+
+---
+
+## Links
+
+- Portfolio: https://neevlila.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/neevlila  
+
+---
