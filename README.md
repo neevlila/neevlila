@@ -1,108 +1,69 @@
 <div align="center">
-  
-  <h1 align="center">👋 Hello! I'm Neev Lila </h1>
-  <p align="center">B.Tech IT Student | Full Stack Enthusiast | Generative AI & Cloud Problem-Solver.</p>
 
-  <p align="center">
-    <a href="https://neevlila.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/neevlila">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:nneev223@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
-  
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=140&section=header&text=Neev%20Lila&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Builder&descAlignY=60&descColor=A8C8FF&descSize=20" width="100%"/>
+
+**AI Product Builder · Prompt Engineer · B.Tech IT Student**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-neevlila.vercel.app-0F62FE?style=flat-square&logo=vercel&logoColor=white)](https://neevlila.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neevlila-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neevlila)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@neevlila)
+[![Instagram](https://img.shields.io/badge/Instagram-neevlila-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neevlila)
+[![Email](https://img.shields.io/badge/Email-nneev223@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nneev223@gmail.com)
+
 </div>
 
 ---
 
-### 💡 About Me
+I build functional AI-assisted products using **ChatGPT, Claude, and Gemini** as core parts of my workflow — not just as helpers. My process is system thinking first, then prompt engineering, then build. I don't write every line of code manually. I use AI tools the same way a designer uses Figma — as the medium through which I work.
 
-- 🎓 I am a *B.Tech in Information Technology* student passionate about using code to solve real-world problems.
-- 💻 My primary focus is on *Full Stack Web Development* (Frontend and Backend) and leveraging *Generative AI* for accelerated development and creative solutions.
-- 🤝 I’m looking to collaborate on *open-source projects* involving modern web frameworks or AI integration.
+> **Open to:** AI Builder roles · Freelance projects · Prompt engineering · AI workflow design
 
 ---
 
-### 🧠 Generative AI & Cloud Skills
+## 🛠️ Skills
 
-This section highlights my advanced skills, a key differentiator in my profile.
+`Prompt Engineering` `AI Product Building` `AI Workflow Design` `Generative AI` `LLM Orchestration` `Rapid Prototyping` `AI-Augmented Development`
 
-| Skill Focus | Key Competencies |
-| :--- | :--- |
-| *Generative AI* | Prompt Engineering, Generative AI Tools, Generative Slide Creation, NLP |
-| *AI-Augmented Dev* | AI-Powered Code Generation, Rapid Prototyping, Creative Solutions |
-| *Cloud & Integration| Integrating Applications with **Gemini 1.0 Pro* via *Google Cloud*, QA |
+`Google Gemini API` `ChatGPT (GPT-4)` `Claude (Anthropic)`
+
+`Python` `HTML/CSS` `JavaScript` `Supabase` `Git` `GitHub` `Docker (Basics)`
+
+---
+
+## 🚀 Projects
+
+| Project | What It Does | Stack | Links |
+|---------|-------------|-------|-------|
+| **🛡️ SMS Spam Detector** | Real-time spam & phishing detection · 98% accuracy | Python · Scikit-learn · Streamlit · TF-IDF | [Demo](https://ai-based-sms-spam-detection.onrender.com/) · [Repo](https://github.com/neevlila/AI-Based-SMS-Spam-Detection) |
+| **⚖️ Lawbot** | AI legal assistant powered by Gemini API · context-aware responses | React · TypeScript · Tailwind · Gemini API | [Demo](https://www.lawbot-teal.vercel.app) |
+| **🤖 Jarvis** | Voice-activated AI desktop assistant | Python · Speech Recognition · Generative AI | — |
+
+---
+
+## 🏅 Certifications
+
+- **Google Verified Badge** — Verified on Google Search
+- **Tata x Forage Certificate** — Virtual Industry Experience Program
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=neevlila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0F62FE&icon_color=0F62FE&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevlila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F62FE&text_color=C9D1D9" height="165"/>
+
 </div>
 
 ---
 
-### 🛠 Full Stack Tech Stack
-
-I apply these core technologies to build robust and scalable solutions.
-
-| Category | Technologies |
-| :--- | :--- |
-| *Frontend* | HTML / CSS / JavaScript |
-| *Backend* | Python |
-| *Database* | Supabase |
-| *Tools & OS* | Docker / Git / GitHub / VS Code / Kali-Linux |
-
-<br>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,docker,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="48" height="48" />
-</div>
 
----
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-neevlila.vercel.app-0F62FE?style=for-the-badge&logo=vercel&logoColor=white)](https://neevlila.vercel.app)
 
-### 🌟 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=80&section=footer" width="100%"/>
 
-Here are a few projects that showcase my skills across full-stack and AI domains:
+<sub>Built with clarity, not just code.</sub>
 
-| Project | Technologies | Description |
-| :--- | :--- | :--- |
-| *Lawbot* | React, TypeScript, Next.js, NLP, Gemini API Key | A conversational AI/bot designed to provide legal information and summaries, leveraging modern web and NLP techniques. |
-| *Jarvis* | Python, Generative AI, Speech Recognition | A fully functional, AI-powered desktop assistant demonstrating complex Python scripting and integration with AI APIs. |
-| *Krishi Mitra* | React, Vite, Tailwind CSS, Supabase, Gemini API, Weather API, Google OAuth | A farmer-focused platform offering AI-generated crop advisory, image-based disease detection, live weather tracking and a simple market linkage system for real-time crop pricing. |
-| *Community Fridge* | TypeScript, React, ` Next.js`, Tailwind CSS, Supabase | This is Website to reduce the Hunger and stop wasting the Food. |
-| *Basic* | Python | A collection of scripts and basic implementations demonstrating core Python and logic concepts. |
-
----
-
-### 📊 GitHub Stats
-
-These cards demonstrate my commitment and consistency on GitHub.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neevlila&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Neev's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevlila&theme=buefy&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevlila&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
----
-
-### 📧 Get In Touch
-
-I'm always open to discussing new projects, collaboration opportunities in Generative AI or full-stack development, or general tech talk.
-
-Feel free to reach out via:
-
-* *LinkedIn:* [Neev Lila](https://www.linkedin.com/in/neevlila)
-* *Personal Site:* [neevlila.vercel.app](http://neevlila.vercel.app)
-
-***
-
-<div align="center">
-  <small>Built with ❤ and Markdown.</small>
 </div>
