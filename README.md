@@ -38,7 +38,7 @@ I build functional AI-assisted products using **ChatGPT, Claude, and Gemini** as
 **🧱 Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,ts,supabase,git,github,docker,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,ts,supabase,git,github,docker,vercel,netlify,figma&theme=dark" />
 </div>
 
 ---
@@ -48,7 +48,7 @@ I build functional AI-assisted products using **ChatGPT, Claude, and Gemini** as
 | Project | What It Does | Stack | Links |
 |---------|-------------|-------|-------|
 | **🛡️ SMS Spam Detector** | Real-time spam & phishing detection · 98% accuracy | Python · Scikit-learn · Streamlit · TF-IDF | [Demo](https://ai-based-sms-spam-detection.onrender.com/) · [Repo](https://github.com/neevlila/AI-Based-SMS-Spam-Detection) |
-| **⚖️ Lawbot** | AI legal assistant powered by Gemini API · context-aware responses | React · TypeScript · Tailwind · Gemini API | [Demo](https://www.lawbot-teal.vercel.app) |
+| **⚖️ Lawbot** | AI legal assistant powered by Gemini API · context-aware responses | React · TypeScript · Tailwind · Gemini API | [Demo](https://lawbot-teal.vercel.app/) |
 | **🤖 Jarvis** | Voice-activated AI desktop assistant | Python · Speech Recognition · Generative AI | — |
 
 ---
