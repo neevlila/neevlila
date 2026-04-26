@@ -6,8 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-neevlila.vercel.app-0F62FE?style=flat-square&logo=vercel&logoColor=white)](https://neevlila.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neevlila-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neevlila)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@neevlila)
-[![Instagram](https://img.shields.io/badge/Instagram-neevlila-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neevlila)
 [![Email](https://img.shields.io/badge/Email-nneev223@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nneev223@gmail.com)
 
 </div>
