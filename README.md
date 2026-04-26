@@ -38,7 +38,7 @@ I build functional AI-assisted products using **ChatGPT, Claude, and Gemini** as
 **🧱 Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,ts,supabase,git,github,docker,vercel,netlify,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,supabase,git,github,docker,vercel,netlify,figma&theme=dark" />
 </div>
 
 ---
